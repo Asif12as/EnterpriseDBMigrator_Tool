@@ -1,0 +1,23 @@
+# src/main/resources/application.yml
+
+spring:
+  application:
+    name: db-migration-tool
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    serialization:
+      WRITE_DATES_AS_TIMESTAMPS: false
+
+server:
+  port: 8080
+
+logging:
+  level:
+    root: INFO
+    com.example.demo: DEBUG
+    org.springframework: WARN
+
+migration:
+  batch-size: 1000
+  max-connections: 10
+  timeout-seconds: 3600
