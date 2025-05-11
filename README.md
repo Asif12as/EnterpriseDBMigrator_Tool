@@ -2,6 +2,20 @@
 
 A comprehensive tool for migrating data between different database systems with advanced features like schema translation, data validation, performance optimization, and comprehensive logging.
 
+# DB Migration Tool
+
+## Screenshots
+
+### Home View
+![Home View](dbtoolHomeview.JPG)
+
+### Database Migration View
+![Database Migration View](dbtoolDatabasemigrationview.JPG)
+
+### History View
+![History View](dbtoolHistoryview.JPG)
+
+
 ## Features
 
 - **Multi-Database Support**: Migrate between MySQL, PostgreSQL, Oracle DB, and SQL Server
