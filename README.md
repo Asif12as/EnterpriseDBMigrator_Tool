@@ -48,7 +48,7 @@ A comprehensive tool for migrating data between different database systems with 
 
 1. Clone the repository:
 
-git clone https://github.com/Asif12as/EnterpriseDBMigrator.git
+git clone (https://github.com/Asif12as/EnterpriseDBMigrator_Tool.git)
 cd EnterpriseDBMigrator
 
 2. Build the backend:
